@@ -15,7 +15,6 @@ if (isset($_GET)){
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <!--    <link rel="stylesheet" type="text/css" href="css/util.css">-->
     <link rel="stylesheet" href="assets/style/main.css">
     <title>Contact</title>
 </head>
@@ -23,7 +22,7 @@ if (isset($_GET)){
 <!--Header-->
 <nav class="navbar bg-dark navbar-dark mb-4" id="navbar">
     <div>
-        <h1><a class="navbar-brand amar" href="index.html" style="">AMAR SYLL</a></h1>
+        <h1><a class="navbar-brand amar" href="index.html" >AMAR SYLL</a></h1>
     </div>
     <div class="collapse navbar-collapse d-flex justify-content-end mr-3" id="navbarNav">
         <h3 class=""><a class="nav-link" href="index.html">Home</a></h3>
